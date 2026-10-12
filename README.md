@@ -69,4 +69,4 @@ For a deployable static build, run `npm.cmd run build` and publish `dist/` to an
 
 ## Credits
 
-Built by [Mohd Kamran Siddiquee](https://mohdkamransiddique.netlify.app/) · [Developer profile](https://mohdkamransiddique.vercel.app/)
+Built by [Mohd Kamran Siddiquee](https://mohdkamransiddique.vercel.app/) · [Developer profile](https://mohdkamransiddique.vercel.app/)
